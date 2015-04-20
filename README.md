@@ -1,4 +1,4 @@
-# Getting and Cleaning Data ProjecT
+# Getting and Cleaning Data Project
 
 ## Files
 
